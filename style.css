@@ -38,7 +38,7 @@ header h1 {
 }
 
 .banner {
-  background: url("png para fondos/boceto de animales.jpg") no-repeat center/cover;
+  background: url("boceto de animales.jpg") no-repeat center/cover;
   height: 450px;
 }
 
@@ -186,5 +186,6 @@ animation: mover 0.8s infinite alternate ease-in-out;
    }
 }
  
+
 
 
